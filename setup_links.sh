@@ -5,7 +5,7 @@ DOTFILES_DIR=$(pwd)
 
 # Lista de fișiere/foldere pentru care vrei symlink
 # Adaugă aici orice fișier nou (ex: .bashrc, .zshrc, vremea.sh)
-files=".bashrc .zshrc .gitconfig vremea.sh setup_links.sh"
+files=".bashrc .zshrc .gitconfig vremea.sh .mpd .ncmpcpp"
 
 echo "Inițiez crearea link-urilor simbolice..."
 

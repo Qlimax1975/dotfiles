@@ -11131,3 +11131,6 @@ Mar 20 22:39 : output: Failed to play on "pulse audio" (pulse): suspended
 Mar 20 22:39 : exception: Failed to open audio output
 Mar 20 22:43 : player: played "Nuthin' But A ＂G＂ Thang.mp3"
 Mar 20 22:49 : player: played "Quench Dreams.mp3"
+Mar 20 22:57 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 20 23:01 : player: played "Nuthin' But A ＂G＂ Thang.mp3"
+Mar 20 23:07 : player: played "Quench Dreams.mp3"
