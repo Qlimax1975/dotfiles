@@ -1,0 +1,1 @@
+/home/qlimax/dotfiles/.bashrc
