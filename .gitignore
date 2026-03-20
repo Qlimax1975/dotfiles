@@ -1,0 +1,11 @@
+# MPD auto-generated files
+.mpd/mpd.log
+.mpd/mpdstate
+.mpd/tag_cache
+.mpd/pid
+
+# Alte fișiere de sistem sau cache care pot apărea în dotfiles
+.bash_history
+.zsh_history
+.DS_Store
+*.swp
